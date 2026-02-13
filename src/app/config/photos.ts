@@ -1,15 +1,15 @@
 // Photo Configuration
 // Update these paths when you want to change photos manually
 
-export const heroPhoto = 'figma:asset/10dc9d7fe6d7cbf338371f6bb10c96e0afbd75ae.png';
+export const heroPhoto = 'me3.jpg';
 
 export const galleryPhotos = [
-  'figma:asset/aa5379aa13b92b871780dcb1e41f117b56344ce2.png',
-  'figma:asset/10dc9d7fe6d7cbf338371f6bb10c96e0afbd75ae.png',
-  'figma:asset/d83fc46d15541c9514c22e1b1852da1b6085473d.png'
+  'me2.jpg',
+  'me1.jpg',
+  'me3.jpg'
 ];
 
-export const resumePhoto = 'figma:asset/62d14b9eb93dd45cf3c4e7eac32a1edbdab1b9f2.png';
+export const resumePhoto = 'resume.vaibhavdubey.png';
 
 // Resume File Configuration
 // Update this with your actual resume PDF or image file
@@ -31,7 +31,7 @@ export const projectPhotos = {
 export const socialLinks = {
   github: 'https://github.com/Vaibhavser',
   twitter: 'https://twitter.com/Vaibhav85109602',
-  linkedin: 'https://linkedin.com/in/your-profile', // Update with your LinkedIn
+  linkedin: 'https://linkedin.com/in/', // Update with your LinkedIn
   instagram: 'https://instagram.com/your-profile' // Update with your Instagram
 };
 
