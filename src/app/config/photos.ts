@@ -1,12 +1,12 @@
 // Photo Configuration
 // Update these paths when you want to change photos manually
 
-export const heroPhoto = 'src/app/config/me.jpg';
+export const heroPhoto = 'src/app/config/me3.jpg';
 
 export const galleryPhotos = [
-  'me2.jpg',
-  'me1.jpg',
-  'me3.jpg'
+  'src/app/config/me.jpg',
+  'src/app/config/me2.jpg',
+  'src/app/config/me3.jpg'
 ];
 
 export const resumePhoto = 'resume.vaibhavdubey.png';
@@ -31,8 +31,8 @@ export const projectPhotos = {
 export const socialLinks = {
   github: 'https://github.com/Vaibhavser',
   twitter: 'https://twitter.com/Vaibhav85109602',
-  linkedin: 'https://linkedin.com/in/', // Update with your LinkedIn
-  instagram: 'https://instagram.com/your-profile' // Update with your Instagram
+  linkedin: 'https://linkedin.com/in/vaibhav-dubey-a41734292', // Update with your LinkedIn
+  instagram: 'https://instagram.com/vaibhavduttdubey' // Update with your Instagram
 };
 
 // Video Configuration
