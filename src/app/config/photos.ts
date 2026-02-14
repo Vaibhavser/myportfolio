@@ -1,21 +1,21 @@
 // Photo Configuration
 // Update these paths when you want to change photos manually
 
-export const heroPhoto = 'https://github.com/Vaibhavser/myportfolio/blob/main/src/app/config/me3.jpg';
+export const heroPhoto = 'https://freeimage.host/i/qJna9ix';
 
 export const galleryPhotos = [
-  'src/app/config/me.jpg',
-  'src/app/config/me2.jpg',
-  'src/app/config/me3.jpg'
+  'https://freeimage.host/i/qJnadlV',
+  'https://freeimage.host/i/qJnaJKQ',
+  'https://freeimage.host/i/qJna9ix'
 ];
 
-export const resumePhoto = 'resume.vaibhavdubey.png';
+export const resumePhoto = 'https://freeimage.host/i/qJnYyVj';
 
 // Resume File Configuration
 // Update this with your actual resume PDF or image file
 export const resumeFile = {
   // The downloadable resume file (PDF, DOCX, or image)
-  url: 'figma:asset/62d14b9eb93dd45cf3c4e7eac32a1edbdab1b9f2.png', // Update with your resume file path
+  url: 'https://freeimage.host/i/qJnYyVj', // Update with your resume file path
   fileName: 'Vaibhav_Dubey_Resume.pdf', // The name of the file when downloaded
   // Alternative: You can also use a direct URL to a PDF hosted somewhere
   // url: 'https://example.com/path-to-your-resume.pdf',
