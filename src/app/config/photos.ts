@@ -16,7 +16,7 @@ export const resumePhoto = 'https://raw.githubusercontent.com/Vaibhavser/myportf
 // Update this with your actual resume PDF or image file
 export const resumeFile = {
   // The downloadable resume file (PDF, DOCX, or image)
-  url: 'https://raw.githubusercontent.com/Vaibhavser/myportfolio/main/resume.vaibhavdubey.png';, // Update with your resume file path
+  url: 'https://raw.githubusercontent.com/Vaibhavser/myportfolio/main/resume.vaibhavdubey.png',
   fileName: 'Vaibhav_Dubey_Resume.pdf', // The name of the file when downloaded
   // Alternative: You can also use a direct URL to a PDF hosted somewhere
   // url: 'https://example.com/path-to-your-resume.pdf',
@@ -53,7 +53,7 @@ export const videoConfig = {
       label: 'Years Experience'
     },
     projects: {
-      value: '10+',
+      value: '10+',$
       label: 'Projects Completed'
     },
     satisfaction: {
