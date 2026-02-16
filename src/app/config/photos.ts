@@ -39,14 +39,11 @@ export const socialLinks = {
 // Video Configuration
 // Change the YouTube video ID to update the introduction video
 export const videoConfig = {
-  // YouTube video ID (the part after "youtube.com/watch?v=" or "youtu.be/")
-  youtubeVideoId: 'dQw4w9WgXcQ', // Replace with your video ID
-  
-  // Video title and description
+  youtubeVideoId: 'dQw4w9WgXcQ',
+
   title: 'Meet Vaibhav Dubey',
   description: 'Software Developer & UI/UX Designer',
-  
-  // Stats displayed below video
+
   stats: {
     experience: {
       value: '2+',
@@ -59,5 +56,7 @@ export const videoConfig = {
     satisfaction: {
       value: '100%',
       label: 'Client Satisfaction'
-     }
-   }
+    }
+  }
+};
+
