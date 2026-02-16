@@ -53,7 +53,7 @@ export const videoConfig = {
       label: 'Years Experience'
     },
     projects: {
-      value: '10+',$
+      value: '10+',
       label: 'Projects Completed'
     },
     satisfaction: {
@@ -61,4 +61,3 @@ export const videoConfig = {
       label: 'Client Satisfaction'
     }
   }
-};
