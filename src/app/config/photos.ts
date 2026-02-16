@@ -6,8 +6,8 @@ export const heroPhoto = 'https://raw.githubusercontent.com/Vaibhavser/myportfol
 
 export const galleryPhotos = [
   'https://raw.githubusercontent.com/Vaibhavser/myportfolio/main/me.jpg',
-  'https://raw.githubusercontent.com/Vaibhavser/myportfolio/main/me2.jpg',
-  'https://raw.githubusercontent.com/Vaibhavser/myportfolio/main/me3.jpg'
+  'https://raw.githubusercontent.com/Vaibhavser/myportfolio/main/Screenshot%202026-02-16%20142148.png',
+  'https://raw.githubusercontent.com/Vaibhavser/myportfolio/main/Screenshot%202026-02-16%20142211.png'
 ];
 
 export const resumePhoto = 'https://raw.githubusercontent.com/Vaibhavser/myportfolio/main/resume.vaibhavdubey.png';
