@@ -1,7 +1,7 @@
 // Photo Configuration
 // Update these paths when you want to change photos manually
 
-export const heroPhoto = 'https://raw.githubusercontent.com/Vaibhavser/myportfolio/main/me.jpg';
+export const heroPhoto = 'https://raw.githubusercontent.com/Vaibhavser/myportfolio/main/me3.jpg';
 
 
 export const galleryPhotos = [
