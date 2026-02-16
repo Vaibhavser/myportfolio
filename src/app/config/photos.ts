@@ -60,4 +60,4 @@ export const videoConfig = {
       value: '100%',
       label: 'Client Satisfaction'
      }
-   }; 
+   }
