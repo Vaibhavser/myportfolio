@@ -8,6 +8,8 @@ import { PhotoGallery } from './components/PhotoGallery';
 import { VideoSection } from './components/VideoSection';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
+import QuoteSection from "./components/QuoteSection";
+
 
 export default function App() {
   return (
@@ -15,6 +17,7 @@ export default function App() {
       <Navigation />
       <main>
         <Hero />
+        <QuoteSection />
         <About />
         <Skills />
         <Projects />
