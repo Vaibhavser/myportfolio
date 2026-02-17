@@ -184,4 +184,22 @@ Thank you.`
 
         {/* Final Quote */}
         {total > 0 && (
-          <div>
+          <div className="bg-gray-50 p-8 rounded-xl text-center animate-fadeIn">
+            <p className="text-lg font-semibold">Estimated Cost</p>
+            <p className="text-4xl font-bold text-cyan-600 mb-6">
+              ₹{total}
+            </p>
+
+            <a
+              href={`https://wa.me/917970174517?text=${whatsappMessage}`}
+              target="_blank"
+              className="inline-block px-8 py-4 rounded-xl bg-green-500 text-white font-semibold hover:bg-green-600 transition"
+            >
+              Connect on WhatsApp
+            </a>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
