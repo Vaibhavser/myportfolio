@@ -184,4 +184,4 @@ Thank you.`
 
         {/* Final Quote */}
         {total > 0 && (
-          <div
+          <div>
